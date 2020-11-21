@@ -1,0 +1,61 @@
+{
+  "logs": [
+    {
+      "id": 2,
+      "message": "Fixed hard drive on workstation 002",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2020-11-21T11:17:34.191Z"
+    },
+    {
+      "message": "1122 wireless down",
+      "attention": true,
+      "tech": "Sara Wilson",
+      "date": "2019-05-31T15:46:48.690Z",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "message": "Workstation 026 is up and running",
+      "attention": false,
+      "tech": "Sara Wilson",
+      "date": "2019-05-31T19:57:35.544Z"
+    },
+    {
+      "id": 5,
+      "message": "snja",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2020-11-20T11:30:31.027Z"
+    },
+    {
+      "id": 6,
+      "message": "hello sir",
+      "attention": true,
+      "tech": "sample ali",
+      "date": "2020-11-21T05:09:59.424Z"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    },
+    {
+      "firstName": "sample",
+      "lastName": "ali",
+      "id": 4
+    }
+  ]
+}
